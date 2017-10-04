@@ -34,5 +34,6 @@
   root.modalCherry = FullEventModal('#event-modal__cherry');
   root.modalPeach = FullEventModal('#event-modal__peach');
   root.modalPlum = FullEventModal('#event-modal__plum');
+  root.modalGrape = FullEventModal('#event-modal__grape');
 
 })(window);
