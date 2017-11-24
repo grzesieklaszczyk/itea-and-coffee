@@ -92,10 +92,10 @@
 
 .event__title {
   position: relative;
-  font-size: 60px;
+  font-size: 56px;
   font-weight: bold;
-  letter-spacing: 7.5px;
-  line-height: 65px;
+  letter-spacing: 1px;
+  line-height: 60px;
   text-shadow: 0 0 35px rgba(0, 0, 0, 0.3);
   z-index: 1;
 
@@ -198,6 +198,12 @@
 .event__bg_tangerine {
   @extend .event__bg;
   background-image: url('../img/event__bg_tangerine@2x.png');
+  background-size: 282px;
+}
+
+.event__bg_avocado {
+  @extend .event__bg;
+  background-image: url('../img/event__bg_avocado@2x.png');
   background-size: 282px;
 }
 
