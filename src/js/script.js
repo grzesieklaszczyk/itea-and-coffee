@@ -37,5 +37,6 @@
   root.modalGrape = FullEventModal('#event-modal__grape');
   root.modalTangerine = FullEventModal('#event-modal__tangerine');
   root.modalAvocado = FullEventModal('#event-modal__avocado');
+  root.modalLemon = FullEventModal('#event-modal__lemon');
 
 })(window);
